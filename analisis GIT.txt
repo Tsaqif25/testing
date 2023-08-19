@@ -1,0 +1,7 @@
+Version Control adalah sebuah sistem yang merekam perubahan pada file dari waktu ke waktu sehingga kita bisa melihat versi sebelumnya jika diinginkan
+
+Tipe Version Control 
+
+terdiri dari 3 ada Local version Control,Centralized Version Control,dan Distributed Version Control
+
+dan Git termasuk kedalam Distributed Version Control,Semua hal yang terjadi di git secara otomatis akan dicatat,hal ini menjadikan perubahan apapun di Git,pasti selalu bisa dikembalikan ke versi sebelumnya
